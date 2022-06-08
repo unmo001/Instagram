@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/add"
+        android:icon="@drawable/ic_baseline_add_box_24"
+        android:title="@string/add"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/favorite"
+        android:icon="@drawable/ic_baseline_favorite_border_24"
+        android:title="@string/favorite"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/messenger"
+        android:icon="@drawable/messenger"
+        android:title="@string/messenger"
+        app:showAsAction="always"/>
+
+
+
+</menu>

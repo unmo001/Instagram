@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/post"
+        android:title="@string/title_post"
+        />
+    <item
+        android:id="@+id/stories"
+        android:title="@string/title_stories"
+        />
+    <item
+        android:id="@+id/reel"
+        android:title="@string/title_reel"
+        />
+    <item
+        android:id="@+id/live"
+        android:title="@string/title_live"
+        />
+
+
+
+
+
+</menu>
